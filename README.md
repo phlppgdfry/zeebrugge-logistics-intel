@@ -2,8 +2,8 @@
 
 An executive-ready intelligence repo that turns public Zeebrugge port-logistics signals into structured datasets, technology-stack hypotheses, scraped source evidence and commercial software opportunities.
 
-[![Validate dataset](https://github.com/KippieG/zeebrugge-logistics-intel/actions/workflows/validate.yml/badge.svg)](https://github.com/KippieG/zeebrugge-logistics-intel/actions/workflows/validate.yml)
-[![Deploy GitHub Pages](https://github.com/KippieG/zeebrugge-logistics-intel/actions/workflows/pages.yml/badge.svg)](https://github.com/KippieG/zeebrugge-logistics-intel/actions/workflows/pages.yml)
+[![Validate dataset](https://github.com/phlppgdfry/zeebrugge-logistics-intel/actions/workflows/validate.yml/badge.svg)](https://github.com/phlppgdfry/zeebrugge-logistics-intel/actions/workflows/validate.yml)
+[![Deploy GitHub Pages](https://github.com/phlppgdfry/zeebrugge-logistics-intel/actions/workflows/pages.yml/badge.svg)](https://github.com/phlppgdfry/zeebrugge-logistics-intel/actions/workflows/pages.yml)
 
 ![Zeebrugge Port Tech Intelligence dashboard hero](docs/assets/zeebrugge-intelligence-hero.png)
 
