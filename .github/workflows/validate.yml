@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   validate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # Playwright has no Chromium build for ubuntu-26.04 yet
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
